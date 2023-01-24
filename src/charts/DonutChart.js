@@ -12,6 +12,7 @@ class DonutChart extends LitElement {
 
   static properties = {
     data: { type: Array },
+    colors: { type: Array },
   };
 
   get svg() {

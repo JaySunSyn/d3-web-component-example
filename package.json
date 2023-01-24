@@ -1,0 +1,26 @@
+{
+  "name": "d3-web-component-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "lit": "^2.6.1",
+    "d3": "^4.0.0"
+  },
+  "devDependencies": {
+    "es-dev-server": "^2.1.0"
+  },
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaySunSyn/d3-web-component-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaySunSyn/d3-web-component-example/issues"
+  },
+  "homepage": "https://github.com/JaySunSyn/d3-web-component-example#readme"
+}

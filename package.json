@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.html",
   "dependencies": {
-    "lit": "^2.6.1",
-    "d3": "^4.0.0"
+    "lit": "^2.6.1"
   },
   "devDependencies": {
     "es-dev-server": "^2.1.0"
